@@ -1,11 +1,13 @@
 package br.com.erudio.exceptions;
 
-import lombok.RequiredArgsConstructor;
+import lombok.AllArgsConstructor;
+import lombok.Data;
 
 import java.io.Serializable;
 import java.util.Date;
 
-@RequiredArgsConstructor
+@Data
+@AllArgsConstructor
 public class ExceptionResponse implements Serializable {
 
     private static final long serialVersionUID = 1L;

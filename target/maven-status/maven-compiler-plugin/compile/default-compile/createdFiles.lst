@@ -1,0 +1,7 @@
+br\com\erudio\services\PersonServices.class
+br\com\erudio\exceptions\ExceptionResponse.class
+br\com\erudio\controllers\PersonController.class
+br\com\erudio\model\Person.class
+br\com\erudio\exceptions\handler\CustomizedResponseEntityExceptionHandler.class
+br\com\erudio\exceptions\UnsupportedMathOperationException.class
+br\com\erudio\Startup.class
